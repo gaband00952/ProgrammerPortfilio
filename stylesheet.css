@@ -1,0 +1,88 @@
+body {
+    background-color:000055;
+}
+nav{
+    text-align:left;
+    font-weight: bold;
+}
+footer{
+
+	text-align:center;
+	line-height:160%;
+  background-color: #00003b;
+  margin:5; padding:5;
+  color:808080;
+	
+}
+
+* {
+    padding: 5px;
+    margin: 5px;
+    
+  }
+
+  main{
+    background-image:url(butterflyImage.jpg);
+    color:#858585;
+  }
+
+  .one{
+	line-height:160%;
+    border-style: groove;
+    height:300px;
+    width:1000px;
+    color:#858585;
+  }
+  
+  .two{
+	line-height:160%;
+    border-style: groove;
+    height:300px;
+    width:1000px;
+    align-items:left;
+    color:#858585;
+  }
+
+  .three{
+	line-height:160%;
+    border-style: groove;
+    height:300px;
+    width:1000px;
+    color:#858585;
+  }
+
+  .image1{
+    align-items:right;
+    float:right;
+    /* border-style: solid;
+    border-color:black; */
+    font-size:0;
+  }
+  
+header{
+  background-color: #00003b;
+  margin:5; padding:5;
+  
+}
+
+nav{
+  font-weight: bold;
+  font-family: fantasy;
+}
+h1{
+  color:808080;
+  
+}
+a{
+  text-decoration:none;
+}
+a:link {
+  color: #000076;
+}
+a:visited{
+  color:#6b0080 ;
+}
+
+.image2{
+   text-align: center; 
+}
